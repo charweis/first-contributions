@@ -936,6 +936,7 @@
 - [Fehlicks](https://github.com/fehlicks)
 - [Joyce Annie George](https://github.com/joyceannie)
 - [Kittipong Khonthong](https://https://github.com/kinzenn)
+- charweis
 - [MuthaEarth](https://github.com/muthaearth)
 - [Akilesh Kumar](https://github.com/cyb3r-w0lf)
 - [Darkirondan](https://github.com/Darkirondan)
